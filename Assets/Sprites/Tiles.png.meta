@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 4e52face0dbf7a34fa3a8a32d0a91356
-timeCreated: 1468630998
+timeCreated: 1468686286
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -198,2708 +198,2414 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -35.84613}
-        - {x: 29.5, y: -35.84613}
-        - {x: 35.5, y: -34.84613}
-        - {x: 35.5, y: 36.15387}
-        - {x: -36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_1
       rect:
         serializedVersion: 2
-        x: 72
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        x: 76
+        y: 866
+        width: 62
+        height: 65
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -34.5, y: 18.15387}
-        - {x: -34.5, y: -33.84613}
-        - {x: 31.5, y: -33.84613}
-        - {x: 31.5, y: 13.15387}
-        - {x: 30.5, y: 23.15387}
-        - {x: 14.5, y: 35.15387}
-        - {x: -13.5, y: 35.15387}
-        - {x: -23.5, y: 34.15387}
-      - - {x: 33.5, y: 36.15387}
-        - {x: 33.5, y: -3.8461304}
-        - {x: 35.5, y: -5.8461304}
-        - {x: 36.5, y: -5.8461304}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -22, y: 32.5}
+        - {x: -31, y: 29.5}
+        - {x: -31, y: -32.5}
+        - {x: 31, y: -32.5}
+        - {x: 31, y: 23.5}
+        - {x: 24, y: 32.5}
       tessellationDetail: 0
     - name: Tiles_2
       rect:
         serializedVersion: 2
         x: 144
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 894
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -5.8461304}
-        - {x: 35.5, y: -31.84613}
-        - {x: 36.5, y: -31.84613}
-        - {x: 36.5, y: 35.15387}
-        - {x: 35.5, y: 36.15387}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_3
       rect:
         serializedVersion: 2
         x: 216
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -31.84613}
-        - {x: -32.5, y: -35.84613}
-        - {x: 34.5, y: -35.84613}
-        - {x: 36.5, y: -27.84613}
-        - {x: 36.5, y: 35.15387}
-        - {x: 35.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_4
       rect:
         serializedVersion: 2
         x: 288
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -9.84613}
-        - {x: -24.5, y: -23.84613}
-        - {x: 10.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -13}
+        - {x: -6, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_5
       rect:
         serializedVersion: 2
         x: 360
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 33.5, y: -35.84613}
-        - {x: 35.5, y: -33.84613}
-        - {x: 35.5, y: -32.84613}
-        - {x: -33.5, y: 36.15387}
-      - - {x: 33.5, y: -1.8461304}
-        - {x: 35.5, y: -3.8461304}
-        - {x: 36.5, y: -3.8461304}
-        - {x: 36.5, y: 5.1538696}
-        - {x: 33.5, y: 4.1538696}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -32}
+        - {x: -32, y: 35}
       tessellationDetail: 0
     - name: Tiles_6
       rect:
         serializedVersion: 2
         x: 432
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 896
+        width: 70
+        height: 5
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 32.5, y: 36.15387}
-        - {x: -36.5, y: 5.1538696}
-        - {x: -36.5, y: -3.8461304}
-        - {x: 35.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_7
       rect:
         serializedVersion: 2
         x: 504
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_8
       rect:
         serializedVersion: 2
         x: 576
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 33.5, y: -35.84613}
-        - {x: 35.5, y: -33.84613}
-        - {x: 35.5, y: -32.84613}
-        - {x: -33.5, y: 36.15387}
-      - - {x: 33.5, y: -29.84613}
-        - {x: 35.5, y: -31.84613}
-        - {x: 36.5, y: -31.84613}
-        - {x: 36.5, y: 34.15387}
-        - {x: 33.5, y: 33.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -32}
+        - {x: -32, y: 35}
       tessellationDetail: 0
     - name: Tiles_9
       rect:
         serializedVersion: 2
         x: 648
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_10
       rect:
         serializedVersion: 2
         x: 720
-        y: 862.1539
-        width: 72.09091
-        height: 71.84615
+        y: 864
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 33.5, y: -35.84613}
-        - {x: 35.5, y: -33.84613}
-        - {x: 35.5, y: -32.84613}
-        - {x: -33.5, y: 36.15387}
-      - - {x: 33.5, y: -29.84613}
-        - {x: 35.5, y: -31.84613}
-        - {x: 36.5, y: -31.84613}
-        - {x: 36.5, y: 34.15387}
-        - {x: 33.5, y: 33.15387}
+      - - {x: -36.5, y: 35}
+        - {x: -36.5, y: -35}
+        - {x: 35.5, y: -35}
+        - {x: 35.5, y: -34}
+        - {x: -33.5, y: 35}
+      - - {x: 33.5, y: -31}
+        - {x: 35.5, y: -33}
+        - {x: 36.5, y: -33}
+        - {x: 36.5, y: 33}
+        - {x: 33.5, y: 32}
       tessellationDetail: 0
     - name: Tiles_11
       rect:
         serializedVersion: 2
         x: 0
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        y: 792
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 35.5, y: 31.15387}
-        - {x: 30.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_12
       rect:
         serializedVersion: 2
-        x: 72
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 93
+        y: 794
+        width: 28
+        height: 50
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -17.5, y: 19.15387}
-        - {x: -17.5, y: -34.84613}
-        - {x: 14.5, y: -34.84613}
-        - {x: 14.5, y: 19.15387}
-      - - {x: 33.5, y: -0.8461304}
-        - {x: 35.5, y: -2.8461304}
-        - {x: 36.5, y: -2.8461304}
-        - {x: 36.5, y: 33.15387}
-        - {x: 33.5, y: 32.15387}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_13
       rect:
         serializedVersion: 2
         x: 144
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        y: 822
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: -30.84613}
-        - {x: 35.5, y: -32.84613}
-        - {x: 36.5, y: -32.84613}
-        - {x: 36.5, y: -16.84613}
-        - {x: 33.5, y: -17.84613}
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -6.8461304}
-        - {x: 33.5, y: -6.8461304}
-        - {x: 35.5, y: -4.8461304}
-        - {x: 35.5, y: 36.15387}
+      - - {x: -33, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -18}
+        - {x: -33, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_14
       rect:
         serializedVersion: 2
-        x: 216
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 288
+        y: 792
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -15.84613}
-        - {x: -36.5, y: -32.84613}
-        - {x: -33.5, y: -35.84613}
-        - {x: 31.5, y: -35.84613}
-        - {x: 36.5, y: -32.84613}
-        - {x: 36.5, y: 33.15387}
-        - {x: 33.5, y: 32.15387}
+      - - {x: -34, y: 35}
+        - {x: -35, y: 34}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_15
       rect:
         serializedVersion: 2
-        x: 288
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 360
+        y: 792
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -32.84613}
-        - {x: -34.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_16
       rect:
         serializedVersion: 2
-        x: 360
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 459
+        y: 792
+        width: 16
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 34.5, y: -35.84613}
-        - {x: 35.5, y: -34.84613}
-        - {x: 35.5, y: 35.15387}
-        - {x: 34.5, y: 36.15387}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_17
       rect:
         serializedVersion: 2
-        x: 432
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 504
+        y: 792
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -11.5, y: 36.15387}
-        - {x: -11.5, y: 13.15387}
-        - {x: -5.5, y: -35.84613}
-        - {x: 4.5, y: -35.84613}
-        - {x: 8.5, y: 5.1538696}
-        - {x: 8.5, y: 36.15387}
-      - - {x: 33.5, y: -34.84613}
-        - {x: 34.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 34.15387}
-        - {x: 33.5, y: 33.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      - - {x: -19, y: 4}
+        - {x: 19, y: 4}
+        - {x: 19, y: -3}
+        - {x: -19, y: -3}
       tessellationDetail: 0
     - name: Tiles_18
       rect:
         serializedVersion: 2
-        x: 504
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 576
+        y: 792
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 36.5, y: 36.15387}
-        - {x: 21.5, y: 36.15387}
-        - {x: 17.5, y: 31.15387}
-        - {x: -15.5, y: 36.15387}
-        - {x: -35.5, y: 36.15387}
-        - {x: -36.5, y: 35.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: -22.5, y: -35.84613}
-        - {x: -21.5, y: -34.84613}
-        - {x: -10.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-      - - {x: -20.5, y: 4.1538696}
-        - {x: 17.5, y: 4.1538696}
-        - {x: 17.5, y: -2.8461304}
-        - {x: -20.5, y: -2.8461304}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_19
       rect:
         serializedVersion: 2
-        x: 576
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 648
+        y: 792
+        width: 70
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 32.15387}
-        - {x: 35.5, y: 36.15387}
+      - - {x: -35, y: 30.5}
+        - {x: -35, y: -30.5}
+        - {x: 35, y: -30.5}
+        - {x: 35, y: 30.5}
       tessellationDetail: 0
     - name: Tiles_20
       rect:
         serializedVersion: 2
-        x: 648
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 720
+        y: 792
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
-        - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: -1.5, y: -35.84613}
-        - {x: 5.5, y: -34.84613}
-        - {x: 0.5, y: -18.84613}
-        - {x: -3.5, y: -8.84613}
-        - {x: 16.5, y: -35.84613}
+      - - {x: -36.5, y: 35}
+        - {x: -36.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 35}
       tessellationDetail: 0
     - name: Tiles_21
       rect:
         serializedVersion: 2
-        x: 720
-        y: 791.1539
-        width: 72.09091
-        height: 71.84615
+        x: 216
+        y: 792
+        width: 70
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_22
       rect:
         serializedVersion: 2
         x: 0
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 32.5, y: -35.84613}
-        - {x: 35.5, y: -31.84613}
-        - {x: 35.5, y: 30.15387}
-        - {x: 29.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_23
       rect:
         serializedVersion: 2
-        x: 72
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        x: 92
+        y: 722
+        width: 28
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 0.5, y: 35.15387}
-        - {x: -7.5, y: 35.15387}
-        - {x: -15.5, y: 33.15387}
-        - {x: -18.5, y: 16.15387}
-        - {x: -18.5, y: -34.84613}
-        - {x: -16.5, y: -35.84613}
-        - {x: 5.5, y: -35.84613}
-        - {x: 13.5, y: -32.84613}
-        - {x: 13.5, y: 13.15387}
-        - {x: 5.5, y: 33.15387}
-      - - {x: 33.5, y: -1.8461304}
-        - {x: 35.5, y: -3.8461304}
-        - {x: 36.5, y: -3.8461304}
-        - {x: 36.5, y: 32.15387}
-        - {x: 33.5, y: 31.15387}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_24
       rect:
         serializedVersion: 2
         x: 144
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 750
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -5.8461304}
-        - {x: -34.5, y: -11.84613}
-        - {x: 22.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_25
       rect:
         serializedVersion: 2
         x: 216
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: 36.15387}
-        - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 36.5, y: -34.84613}
-        - {x: 36.5, y: 33.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_26
       rect:
         serializedVersion: 2
         x: 288
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -33.84613}
-        - {x: -34.5, y: -35.84613}
-        - {x: 31.5, y: -35.84613}
-        - {x: 35.5, y: -31.84613}
-        - {x: 35.5, y: 30.15387}
-        - {x: 33.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_27
       rect:
         serializedVersion: 2
         x: 360
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -32.84613}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
-        - {x: 32.5, y: 36.15387}
+      - - {x: 32, y: 35}
+        - {x: -35, y: -32}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_28
       rect:
         serializedVersion: 2
         x: 432
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35.5, y: 36.15387}
-        - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
-        - {x: 33.5, y: 35.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -32}
+        - {x: -32, y: 35}
       tessellationDetail: 0
     - name: Tiles_29
       rect:
         serializedVersion: 2
         x: 504
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
-      - - {x: -20.5, y: 3.1538696}
-        - {x: 17.5, y: 3.1538696}
-        - {x: 17.5, y: -3.8461304}
-        - {x: -20.5, y: -3.8461304}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      - - {x: -19, y: 4}
+        - {x: 19, y: 4}
+        - {x: 19, y: -3}
+        - {x: -19, y: -3}
       tessellationDetail: 0
     - name: Tiles_30
       rect:
         serializedVersion: 2
         x: 576
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 31.5, y: 36.15387}
-        - {x: -36.5, y: -32.84613}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: 32, y: 35}
+        - {x: -35, y: -32}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_31
       rect:
         serializedVersion: 2
         x: 648
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 70
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -34.5, y: 27.15387}
-        - {x: -36.5, y: 25.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 27.15387}
+      - - {x: -35, y: 30.5}
+        - {x: -35, y: -30.5}
+        - {x: 35, y: -30.5}
+        - {x: 35, y: 30.5}
       tessellationDetail: 0
     - name: Tiles_32
       rect:
         serializedVersion: 2
         x: 720
-        y: 720.1539
-        width: 72.09091
-        height: 71.84615
+        y: 720
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -32.84613}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
-        - {x: 32.5, y: 36.15387}
+      - - {x: 30.5, y: 35}
+        - {x: -36.5, y: -32}
+        - {x: -36.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 35}
       tessellationDetail: 0
     - name: Tiles_33
       rect:
         serializedVersion: 2
         x: 0
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 648
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 33.5, y: -35.84613}
-        - {x: 35.5, y: -32.84613}
-        - {x: 35.5, y: 29.15387}
-        - {x: 31.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_34
       rect:
         serializedVersion: 2
-        x: 72
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        x: 93
+        y: 650
+        width: 28
+        height: 67
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -0.5, y: 34.15387}
-        - {x: -7.5, y: 34.15387}
-        - {x: -17.5, y: 15.15387}
-        - {x: -17.5, y: -28.84613}
-        - {x: -16.5, y: -34.84613}
-        - {x: -15.5, y: -35.84613}
-        - {x: 11.5, y: -35.84613}
-        - {x: 14.5, y: -29.84613}
-        - {x: 14.5, y: 23.15387}
-        - {x: 11.5, y: 28.15387}
-      - - {x: 33.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 35.15387}
-        - {x: 33.5, y: 34.15387}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_35
       rect:
         serializedVersion: 2
         x: 144
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 648
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 13.5, y: 36.15387}
-        - {x: -36.5, y: 35.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: 33, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: -8, y: -35}
+        - {x: 35, y: 8}
+        - {x: 35, y: 33}
       tessellationDetail: 0
     - name: Tiles_36
       rect:
         serializedVersion: 2
         x: 216
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 648
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 34.5, y: -35.84613}
-        - {x: 34.5, y: -33.84613}
-        - {x: 35.5, y: 35.15387}
-        - {x: 35.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: -32}
+        - {x: -32, y: 35}
       tessellationDetail: 0
     - name: Tiles_37
       rect:
         serializedVersion: 2
-        x: 288
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        x: 291
+        y: 648
+        width: 64
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -34.5, y: 36.15387}
-        - {x: -35.5, y: 32.15387}
-        - {x: -35.5, y: -26.84613}
-        - {x: -18.5, y: -35.84613}
-        - {x: 11.5, y: -35.84613}
-        - {x: 32.5, y: -3.8461304}
-        - {x: 32.5, y: 36.15387}
-      - - {x: 33.5, y: 36.15387}
-        - {x: 33.5, y: -7.8461304}
-        - {x: 35.5, y: -9.84613}
-        - {x: 36.5, y: -9.84613}
-        - {x: 36.5, y: 36.15387}
-      - - {x: -0.5, y: 32.15387}
-        - {x: 6.5, y: 32.15387}
-        - {x: 6.5, y: 26.15387}
-        - {x: 1.5, y: 27.15387}
+      - - {x: 6, y: -35}
+        - {x: 32, y: -17}
+        - {x: 32, y: 20}
+        - {x: 24, y: 35}
+        - {x: -32, y: 35}
+        - {x: -32, y: -35}
       tessellationDetail: 0
     - name: Tiles_38
       rect:
         serializedVersion: 2
         x: 360
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 677
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -9.84613}
-        - {x: 29.5, y: -9.84613}
-        - {x: 35.5, y: -5.8461304}
-        - {x: 36.5, y: 16.15387}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 33, y: -20.5}
+        - {x: 35, y: -18.5}
+        - {x: 35, y: 18.5}
+        - {x: 33, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_39
       rect:
         serializedVersion: 2
         x: 432
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 648
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: 32, y: 35}
+        - {x: -35, y: -32}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_40
       rect:
         serializedVersion: 2
         x: 504
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 648
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 36.5, y: -18.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_41
       rect:
         serializedVersion: 2
         x: 576
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 678
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: -15.84613}
-        - {x: 33.5, y: -16.84613}
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -8.84613}
-        - {x: 29.5, y: -8.84613}
-        - {x: 36.5, y: -5.8461304}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 33, y: -20}
+        - {x: 35, y: -18}
+        - {x: 35, y: 18}
+        - {x: 33, y: 20}
       tessellationDetail: 0
     - name: Tiles_42
       rect:
         serializedVersion: 2
         x: 648
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 648
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -26.5, y: 5.1538696}
-        - {x: -35.5, y: 3.1538696}
-        - {x: -36.5, y: -6.8461304}
-        - {x: -36.5, y: -35.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 35.5, y: -12.84613}
-        - {x: 24.5, y: 5.1538696}
-      - - {x: 18.5, y: 36.15387}
-        - {x: 19.5, y: 32.15387}
-        - {x: 34.5, y: -9.84613}
-        - {x: 36.5, y: -9.84613}
-        - {x: 36.5, y: 36.15387}
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: 33.15387}
-        - {x: -23.5, y: 33.15387}
-        - {x: -21.5, y: 35.15387}
-        - {x: -21.5, y: 36.15387}
+      - - {x: -27, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 11}
+        - {x: 29, y: 20}
       tessellationDetail: 0
     - name: Tiles_43
       rect:
         serializedVersion: 2
         x: 720
-        y: 649.1539
-        width: 72.09091
-        height: 71.84615
+        y: 652
+        width: 73
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -9.84613}
-        - {x: 35.5, y: -34.84613}
-        - {x: 36.5, y: -34.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -36.5, y: 33}
+        - {x: -36.5, y: -10}
+        - {x: 29.5, y: -33}
+        - {x: 36.5, y: -33}
+        - {x: 36.5, y: 30}
+        - {x: 32.5, y: 33}
       tessellationDetail: 0
     - name: Tiles_44
       rect:
         serializedVersion: 2
         x: 0
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 31.15387}
-        - {x: 32.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_45
       rect:
         serializedVersion: 2
         x: 72
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35.5, y: 36.15387}
-        - {x: -36.5, y: 34.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_46
       rect:
         serializedVersion: 2
         x: 144
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 2, y: -35}
+        - {x: 35, y: -18}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_47
       rect:
         serializedVersion: 2
         x: 216
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 35.5, y: 35.15387}
-        - {x: 34.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_48
       rect:
         serializedVersion: 2
-        x: 288
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        x: 292
+        y: 576
+        width: 64
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 2.5, y: 34.15387}
-        - {x: -1.5, y: 30.15387}
-        - {x: -0.5, y: 34.15387}
-        - {x: -0.5, y: 36.15387}
-        - {x: -17.5, y: 36.15387}
-        - {x: -34.5, y: 21.15387}
-        - {x: -34.5, y: -1.8461304}
-        - {x: -19.5, y: -29.84613}
-        - {x: -3.5, y: -35.84613}
-        - {x: 26.5, y: -35.84613}
-        - {x: 33.5, y: -10.84613}
-        - {x: 33.5, y: 29.15387}
-        - {x: 11.5, y: 35.15387}
-      - - {x: 33.5, y: -8.84613}
-        - {x: 35.5, y: -10.84613}
-        - {x: 36.5, y: -10.84613}
-        - {x: 36.5, y: 34.15387}
-        - {x: 33.5, y: 33.15387}
+      - - {x: -28, y: 35}
+        - {x: -32, y: 31}
+        - {x: -32, y: -9}
+        - {x: -19, y: -35}
+        - {x: 27, y: -35}
+        - {x: 32, y: -17}
+        - {x: 32, y: 35}
       tessellationDetail: 0
     - name: Tiles_49
       rect:
         serializedVersion: 2
         x: 360
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 605
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -10.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
-        - {x: -1.5, y: 36.15387}
-        - {x: -36.5, y: 34.15387}
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_50
       rect:
         serializedVersion: 2
         x: 432
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_51
       rect:
         serializedVersion: 2
         x: 504
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 36.5, y: -18.84613}
-        - {x: 36.5, y: 35.15387}
-        - {x: 35.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_52
       rect:
         serializedVersion: 2
         x: 576
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 606
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 17.5, y: 36.15387}
-        - {x: -36.5, y: 34.15387}
-        - {x: -36.5, y: -9.84613}
-        - {x: 31.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_53
       rect:
         serializedVersion: 2
         x: 648
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 576
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15387}
-        - {x: -36.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 36.15387}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_54
       rect:
         serializedVersion: 2
         x: 720
-        y: 578.1539
-        width: 72.09091
-        height: 71.84615
+        y: 580
+        width: 73
+        height: 66
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 34.15387}
-        - {x: -36.5, y: -10.84613}
-        - {x: 35.5, y: -35.84613}
-        - {x: 36.5, y: -35.84613}
-        - {x: 36.5, y: 31.15387}
-        - {x: 34.5, y: 34.15387}
+      - - {x: -36.5, y: 33}
+        - {x: -36.5, y: -10}
+        - {x: 31.5, y: -33}
+        - {x: 36.5, y: -33}
+        - {x: 36.5, y: 31}
+        - {x: 35.5, y: 33}
       tessellationDetail: 0
     - name: Tiles_55
       rect:
         serializedVersion: 2
         x: 0
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 33.15384}
-        - {x: 33.5, y: 32.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_56
       rect:
         serializedVersion: 2
         x: 72
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 32.15384}
-      - - {x: 33.5, y: 36.15384}
-        - {x: 33.5, y: 33.15384}
-        - {x: 35.5, y: 31.15384}
-        - {x: 36.5, y: 31.15384}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_57
       rect:
         serializedVersion: 2
         x: 144
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -27.84616}
-        - {x: 2.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: 7.153839}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: 8}
+        - {x: 9, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_58
       rect:
         serializedVersion: 2
         x: 216
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 2.153839}
-        - {x: -35.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -28.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: 32, y: 35}
+        - {x: -35, y: -32}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_59
       rect:
         serializedVersion: 2
         x: 288
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -18.5, y: 36.15384}
-        - {x: -36.5, y: 26.15384}
-        - {x: -36.5, y: -22.84616}
-        - {x: -27.5, y: -35.84616}
-        - {x: 20.5, y: -35.84616}
-        - {x: 36.5, y: -25.84616}
-        - {x: 36.5, y: 34.15384}
-        - {x: 23.5, y: 36.15384}
+      - - {x: -26, y: 35}
+        - {x: -35, y: 30}
+        - {x: -35, y: -19}
+        - {x: -23, y: -35}
+        - {x: 10, y: -35}
+        - {x: 35, y: -18}
+        - {x: 35, y: 30}
+        - {x: 20, y: 35}
       tessellationDetail: 0
     - name: Tiles_60
       rect:
         serializedVersion: 2
         x: 360
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 533
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: 33.15384}
-        - {x: -32.5, y: 33.15384}
-        - {x: -36.5, y: 31.15384}
-        - {x: -36.5, y: -12.846161}
-        - {x: 32.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 30.15384}
+      - - {x: -33, y: 20.5}
+        - {x: -35, y: 18.5}
+        - {x: -35, y: -19.5}
+        - {x: -33, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_61
       rect:
         serializedVersion: 2
         x: 432
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: 36.15384}
-        - {x: 33.5, y: 33.15384}
-        - {x: 33.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_62
       rect:
         serializedVersion: 2
         x: 504
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -16.84616}
-        - {x: 36.5, y: 32.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_63
       rect:
         serializedVersion: 2
         x: 576
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 534
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 33.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: -17.84616}
-        - {x: 33.5, y: -18.84616}
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -10.846161}
-        - {x: 36.5, y: -10.846161}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 20}
+        - {x: -35, y: 18}
+        - {x: -35, y: -18}
+        - {x: -33, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_64
       rect:
         serializedVersion: 2
         x: 648
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 504
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -20.5, y: 3.153839}
-        - {x: -31.5, y: -3.846161}
-        - {x: -36.5, y: -12.846161}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 35.5, y: -12.846161}
-        - {x: 24.5, y: 3.153839}
-      - - {x: 33.5, y: -4.846161}
-        - {x: 35.5, y: -6.846161}
-        - {x: 36.5, y: -6.846161}
-        - {x: 36.5, y: 29.15384}
-        - {x: 33.5, y: 28.15384}
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 31.15384}
-        - {x: 33.5, y: 31.15384}
-        - {x: 35.5, y: 33.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: 20, y: 20}
+        - {x: -23, y: 20}
+        - {x: -35, y: 9}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 7}
+        - {x: 28, y: 15}
       tessellationDetail: 0
     - name: Tiles_65
       rect:
         serializedVersion: 2
         x: 720
-        y: 507.15384
-        width: 72.09091
-        height: 71.84615
+        y: 533
+        width: 73
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32.5, y: 33.15384}
-        - {x: -36.5, y: 29.15384}
-        - {x: -36.5, y: -8.846161}
-        - {x: -31.5, y: -11.846161}
-        - {x: 36.5, y: -11.846161}
-        - {x: 36.5, y: 33.15384}
+      - - {x: -34.5, y: 20.5}
+        - {x: -36.5, y: 18.5}
+        - {x: -36.5, y: -19.5}
+        - {x: -34.5, y: -20.5}
+        - {x: 35.5, y: -20.5}
+        - {x: 36.5, y: -18.5}
+        - {x: 36.5, y: 19.5}
+        - {x: 35.5, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_66
       rect:
         serializedVersion: 2
         x: 0
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
-      - - {x: 31.5, y: 31.15384}
-        - {x: 33.5, y: 29.15384}
-        - {x: 33.5, y: 30.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_67
       rect:
         serializedVersion: 2
         x: 72
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -19.84616}
-        - {x: 36.5, y: 32.15384}
-        - {x: 34.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_68
       rect:
         serializedVersion: 2
         x: 144
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35.5, y: 36.15384}
-        - {x: -36.5, y: 32.15384}
-        - {x: -36.5, y: -18.84616}
-        - {x: -25.5, y: -33.84616}
-        - {x: -9.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -13}
+        - {x: -6, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_69
       rect:
         serializedVersion: 2
         x: 216
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 461
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -35.5, y: 36.15384}
-        - {x: -36.5, y: 35.15384}
-        - {x: -36.5, y: -12.846161}
-        - {x: 18.5, y: -13.846161}
-        - {x: 36.5, y: -13.846161}
-        - {x: 36.5, y: 28.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 33, y: -20.5}
+        - {x: 35, y: -18.5}
+        - {x: 35, y: 18.5}
+        - {x: 33, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_70
       rect:
         serializedVersion: 2
         x: 288
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -19.5, y: 36.15384}
-        - {x: -36.5, y: 29.15384}
-        - {x: -36.5, y: -22.84616}
-        - {x: -25.5, y: -35.84616}
-        - {x: 18.5, y: -35.84616}
-        - {x: 36.5, y: -26.84616}
-        - {x: 36.5, y: 30.15384}
-        - {x: 27.5, y: 36.15384}
+      - - {x: -26, y: 35}
+        - {x: -35, y: 30}
+        - {x: -35, y: -19}
+        - {x: -23, y: -35}
+        - {x: 10, y: -35}
+        - {x: 35, y: -18}
+        - {x: 35, y: 30}
+        - {x: 20, y: 35}
       tessellationDetail: 0
     - name: Tiles_71
       rect:
         serializedVersion: 2
         x: 360
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 461
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 32.15384}
-        - {x: -36.5, y: -13.846161}
-        - {x: 29.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 32.15384}
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_72
       rect:
         serializedVersion: 2
         x: 432
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_73
       rect:
         serializedVersion: 2
         x: 504
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -17.84616}
-        - {x: 36.5, y: 31.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_74
       rect:
         serializedVersion: 2
         x: 576
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 462
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -25.84616}
-        - {x: 11.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_75
       rect:
         serializedVersion: 2
         x: 648
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -17.84616}
-        - {x: 36.5, y: 31.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_76
       rect:
         serializedVersion: 2
         x: 720
-        y: 436.15384
-        width: 72.09091
-        height: 71.84615
+        y: 432
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 32.15384}
-        - {x: -36.5, y: -13.846161}
-        - {x: 29.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 32.15384}
+      - - {x: -36.5, y: 35}
+        - {x: -36.5, y: -9}
+        - {x: 29.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 35}
       tessellationDetail: 0
     - name: Tiles_77
       rect:
         serializedVersion: 2
         x: 0
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_78
       rect:
         serializedVersion: 2
         x: 72
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 31.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_79
       rect:
         serializedVersion: 2
         x: 144
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -34, y: 35}
+        - {x: -35, y: 34}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_80
       rect:
         serializedVersion: 2
         x: 216
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 389
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 31.15384}
-        - {x: -36.5, y: -13.846161}
-        - {x: 31.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 31.15384}
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_81
       rect:
         serializedVersion: 2
         x: 288
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -31.5, y: 36.15384}
-        - {x: -36.5, y: 35.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 31.15384}
-        - {x: 25.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_82
       rect:
         serializedVersion: 2
         x: 360
-        y: 365.15384
-        width: 72.09091
-        height: 71.84616
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
-      pivot: {x: 0.50000024, y: 0.4999998}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 31.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 27.15384}
-        - {x: 29.5, y: 31.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: -7, y: -35}
+        - {x: 35, y: 8}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_83
       rect:
         serializedVersion: 2
         x: 432
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_84
       rect:
         serializedVersion: 2
         x: 504
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 33.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_85
       rect:
         serializedVersion: 2
         x: 576
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: 33, y: 35}
+        - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: -8, y: -35}
+        - {x: 35, y: 8}
+        - {x: 35, y: 33}
       tessellationDetail: 0
     - name: Tiles_86
       rect:
         serializedVersion: 2
         x: 648
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 33.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_87
       rect:
         serializedVersion: 2
         x: 720
-        y: 365.15384
-        width: 72.09091
-        height: 71.84615
+        y: 360
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -36.5, y: 35}
+        - {x: -36.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 35}
       tessellationDetail: 0
     - name: Tiles_88
       rect:
         serializedVersion: 2
         x: 0
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_89
       rect:
         serializedVersion: 2
         x: 72
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_90
       rect:
         serializedVersion: 2
         x: 144
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -31.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_91
       rect:
         serializedVersion: 2
         x: 216
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 317
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 26.5, y: 36.15384}
-        - {x: -32.5, y: 30.15384}
-        - {x: -36.5, y: 28.15384}
-        - {x: -36.5, y: -15.846161}
-        - {x: 31.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 20.5}
+        - {x: -35, y: 18.5}
+        - {x: -35, y: -19.5}
+        - {x: -33, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_92
       rect:
         serializedVersion: 2
         x: 288
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_93
       rect:
         serializedVersion: 2
         x: 360
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 36.5, y: 27.15384}
-        - {x: 31.5, y: 33.15384}
-        - {x: -1.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-      - - {x: 33.5, y: 36.15384}
-        - {x: 33.5, y: 34.15384}
-        - {x: 35.5, y: 32.15384}
-        - {x: 36.5, y: 32.15384}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: -3, y: -35}
+        - {x: 14, y: -33}
+        - {x: 35, y: -11}
+        - {x: 35, y: 34}
+        - {x: 34, y: 35}
       tessellationDetail: 0
     - name: Tiles_94
       rect:
         serializedVersion: 2
         x: 432
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 32.15384}
-        - {x: -32.5, y: 28.15384}
-        - {x: -36.5, y: 8.153839}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 22.5}
+        - {x: -35, y: -22.5}
+        - {x: 35, y: -22.5}
+        - {x: 35, y: 22.5}
       tessellationDetail: 0
     - name: Tiles_95
       rect:
         serializedVersion: 2
         x: 504
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_96
       rect:
         serializedVersion: 2
         x: 576
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 35.5, y: -8.846161}
-        - {x: 35.5, y: 24.15384}
-        - {x: 33.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 5.5, y: -35.84616}
-        - {x: 9.5, y: -33.84616}
-        - {x: 18.5, y: -28.84616}
-        - {x: 30.5, y: -15.846161}
-      - - {x: 33.5, y: 36.15384}
-        - {x: 33.5, y: 30.15384}
-        - {x: 35.5, y: 28.15384}
-        - {x: 36.5, y: 28.15384}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 2, y: -35}
+        - {x: 35, y: -18}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_97
       rect:
         serializedVersion: 2
         x: 648
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: 32, y: 35}
+        - {x: -35, y: -32}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_98
       rect:
         serializedVersion: 2
         x: 720
-        y: 294.15384
-        width: 72.09091
-        height: 71.84615
+        y: 288
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -36.5, y: 35}
+        - {x: -36.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 35}
       tessellationDetail: 0
     - name: Tiles_99
       rect:
         serializedVersion: 2
         x: 0
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_100
       rect:
         serializedVersion: 2
         x: 72
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_101
       rect:
         serializedVersion: 2
         x: 144
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -26.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_102
       rect:
         serializedVersion: 2
         x: 216
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 245
+        width: 70
+        height: 41
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 29.15384}
-        - {x: -36.5, y: -19.84616}
-        - {x: 27.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 29.15384}
-      - - {x: 33.5, y: 36.15384}
-        - {x: 33.5, y: 29.15384}
-        - {x: 35.5, y: 27.15384}
-        - {x: 36.5, y: 27.15384}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 20.5}
+        - {x: -35, y: -20.5}
+        - {x: 35, y: -20.5}
+        - {x: 35, y: 20.5}
       tessellationDetail: 0
     - name: Tiles_103
       rect:
         serializedVersion: 2
         x: 288
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -24.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_104
       rect:
         serializedVersion: 2
         x: 360
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 0.15383911}
-        - {x: 3.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: 8}
+        - {x: 9, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_105
       rect:
         serializedVersion: 2
         x: 432
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -25.5, y: 25.15384}
-        - {x: -36.5, y: 3.153839}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 25.15384}
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 27.15384}
-        - {x: 36.5, y: 27.15384}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 22.5}
+        - {x: -35, y: -21.5}
+        - {x: -34, y: -22.5}
+        - {x: 35, y: -22.5}
+        - {x: 35, y: 22.5}
       tessellationDetail: 0
     - name: Tiles_106
       rect:
         serializedVersion: 2
         x: 504
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -24.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_107
       rect:
         serializedVersion: 2
         x: 576
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 0.15383911}
-        - {x: 3.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -32.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: 8}
+        - {x: 9, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_108
       rect:
         serializedVersion: 2
         x: 648
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 246
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -32.5, y: 36.15384}
-        - {x: -36.5, y: 32.15384}
-        - {x: -36.5, y: -14.846161}
-        - {x: 33.5, y: -14.846161}
-        - {x: 36.5, y: -13.846161}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_109
       rect:
         serializedVersion: 2
         x: 720
-        y: 223.15384
-        width: 72.09091
-        height: 71.84615
+        y: 216
+        width: 73
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 0.15383911}
-        - {x: 3.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -21.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -34.5, y: 35}
+        - {x: -36.5, y: 33}
+        - {x: -36.5, y: 8}
+        - {x: 7.5, y: -35}
+        - {x: 36.5, y: -35}
+        - {x: 36.5, y: 35}
       tessellationDetail: 0
     - name: Tiles_110
       rect:
         serializedVersion: 2
         x: 0
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 36.5, y: 30.15384}
-        - {x: 36.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 28.15384}
-        - {x: 33.5, y: 27.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_111
       rect:
         serializedVersion: 2
         x: 72
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_112
       rect:
         serializedVersion: 2
         x: 144
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 35.5, y: 32.15384}
-        - {x: 35.5, y: 36.15384}
-        - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 28.15384}
-        - {x: 33.5, y: 27.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_113
       rect:
         serializedVersion: 2
         x: 216
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 28.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: -4.5, y: -35.84616}
-        - {x: 35.5, y: -4.846161}
-        - {x: 35.5, y: 22.15384}
-        - {x: 33.5, y: 28.15384}
-      - - {x: 33.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: -21.84616}
-        - {x: 33.5, y: -22.84616}
-      - - {x: 33.5, y: 36.15384}
-        - {x: 33.5, y: 32.15384}
-        - {x: 35.5, y: 30.15384}
-        - {x: 36.5, y: 30.15384}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: -7, y: -35}
+        - {x: 35, y: 8}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_114
       rect:
         serializedVersion: 2
-        x: 288
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        x: 360
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -16.84616}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 35.5, y: -17.84616}
-        - {x: 34.5, y: -16.84616}
-      - - {x: 33.5, y: -4.846161}
-        - {x: 35.5, y: -6.846161}
-        - {x: 36.5, y: -6.846161}
-        - {x: 36.5, y: 24.15384}
-        - {x: 33.5, y: 23.15384}
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: 30.15384}
-        - {x: -32.5, y: 26.15384}
-        - {x: 33.5, y: 26.15384}
-        - {x: 35.5, y: 28.15384}
-        - {x: 35.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -13}
+        - {x: -6, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_115
       rect:
         serializedVersion: 2
-        x: 360
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        x: 432
+        y: 174
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -2.5, y: 36.15384}
-        - {x: -35.5, y: 32.15384}
-        - {x: -36.5, y: 27.15384}
-        - {x: -36.5, y: -19.84616}
-        - {x: -21.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -26.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -18}
+        - {x: -33, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
       tessellationDetail: 0
     - name: Tiles_116
       rect:
         serializedVersion: 2
-        x: 432
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        x: 504
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -17.84616}
-        - {x: 10.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_117
       rect:
         serializedVersion: 2
-        x: 504
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        x: 576
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.15384}
-        - {x: -36.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -26.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -13}
+        - {x: -6, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_118
       rect:
         serializedVersion: 2
-        x: 576
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        x: 648
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -2.5, y: 36.15384}
-        - {x: -35.5, y: 32.15384}
-        - {x: -36.5, y: 27.15384}
-        - {x: -36.5, y: -19.84616}
-        - {x: -21.5, y: -35.84616}
-        - {x: 35.5, y: -35.84616}
-        - {x: 36.5, y: -27.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: 7}
+        - {x: 6, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_119
       rect:
         serializedVersion: 2
-        x: 648
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        x: 720
+        y: 0
+        width: 73
+        height: 197
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 28.15384}
-        - {x: -36.5, y: -1.8461609}
-        - {x: 1.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 28.15384}
+      - - {x: -36.5, y: 98.5}
+        - {x: -36.5, y: -98.5}
+        - {x: 36.5, y: -98.5}
+        - {x: 36.5, y: 98.5}
       tessellationDetail: 0
     - name: Tiles_120
       rect:
         serializedVersion: 2
         x: 720
-        y: 152.15384
-        width: 72.09091
-        height: 71.84615
+        y: 144
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 3.5, y: 36.15384}
-        - {x: 3.5, y: 34.15384}
-        - {x: -32.5, y: 28.15384}
-        - {x: -36.5, y: 26.15384}
-        - {x: -36.5, y: -23.84616}
-        - {x: -15.5, y: -35.84616}
-        - {x: 36.5, y: -35.84616}
-        - {x: 36.5, y: 36.15384}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -13}
+        - {x: -6, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_121
       rect:
         serializedVersion: 2
-        x: 0
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 288
+        y: 144
+        width: 70
+        height: 25
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
-      - - {x: 31.5, y: 26.153847}
-        - {x: 33.5, y: 24.153847}
-        - {x: 33.5, y: 25.153847}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_122
       rect:
         serializedVersion: 2
-        x: 72
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 0
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_123
       rect:
         serializedVersion: 2
-        x: 144
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 72
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_124
       rect:
         serializedVersion: 2
-        x: 216
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 144
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 27.153847}
-        - {x: 11.5, y: 36.153847}
-      - - {x: 33.5, y: 36.153847}
-        - {x: 33.5, y: 33.153847}
-        - {x: 35.5, y: 31.153847}
-        - {x: 36.5, y: 31.153847}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_125
       rect:
         serializedVersion: 2
-        x: 288
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 216
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 28.153847}
-        - {x: 35.5, y: 36.153847}
-      - - {x: -9.5, y: 26.153847}
-        - {x: -8.5, y: 27.153847}
-        - {x: -16.5, y: 27.153847}
-        - {x: -15.5, y: 27.153847}
-      - - {x: 10.5, y: 30.153847}
-        - {x: 13.5, y: 27.153847}
-        - {x: 5.5, y: 27.153847}
-        - {x: 6.5, y: 26.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: -3, y: -35}
+        - {x: 14, y: -33}
+        - {x: 35, y: -11}
+        - {x: 35, y: 34}
+        - {x: 34, y: 35}
       tessellationDetail: 0
     - name: Tiles_126
       rect:
         serializedVersion: 2
-        x: 360
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 288
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9.5, y: 36.153847}
-        - {x: -8.5, y: 33.153847}
-        - {x: -2.5, y: 31.153847}
-        - {x: -33.5, y: 28.153847}
-        - {x: -36.5, y: 24.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_127
       rect:
         serializedVersion: 2
-        x: 432
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 360
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: -1.8461533}
-        - {x: -36.5, y: -35.846153}
-        - {x: 35.5, y: -35.846153}
-        - {x: 36.5, y: -17.846153}
-        - {x: 36.5, y: 22.153847}
-        - {x: 33.5, y: 21.153847}
-      - - {x: 33.5, y: 36.153847}
-        - {x: 33.5, y: 31.153847}
-        - {x: 35.5, y: 29.153847}
-        - {x: 36.5, y: 29.153847}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_128
       rect:
         serializedVersion: 2
-        x: 504
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 432
+        y: 72
+        width: 70
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -27.846153}
-        - {x: -21.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 27.153847}
-        - {x: 35.5, y: 36.153847}
+      - - {x: -35, y: 22.5}
+        - {x: -35, y: -22.5}
+        - {x: 35, y: -22.5}
+        - {x: 35, y: 22.5}
       tessellationDetail: 0
     - name: Tiles_129
       rect:
         serializedVersion: 2
-        x: 576
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 504
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9.5, y: 36.153847}
-        - {x: -8.5, y: 33.153847}
-        - {x: -2.5, y: 31.153847}
-        - {x: -33.5, y: 28.153847}
-        - {x: -36.5, y: 24.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 27.153847}
-        - {x: 35.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -13}
+        - {x: -12, y: -32}
+        - {x: 2, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_130
       rect:
         serializedVersion: 2
-        x: 648
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 576
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -21.5, y: 36.153847}
-        - {x: -36.5, y: 24.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -34, y: 35}
+        - {x: -35, y: 34}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 33, y: -35}
+        - {x: 35, y: -33}
+        - {x: 35, y: 33}
+        - {x: 33, y: 35}
       tessellationDetail: 0
     - name: Tiles_131
       rect:
         serializedVersion: 2
-        x: 720
-        y: 81.15385
-        width: 72.09091
-        height: 71.84615
+        x: 648
+        y: 72
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -9.5, y: 36.153847}
-        - {x: -8.5, y: 33.153847}
-        - {x: -2.5, y: 31.153847}
-        - {x: -33.5, y: 28.153847}
-        - {x: -36.5, y: 24.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -35}
+        - {x: -3, y: -35}
+        - {x: 22, y: -25}
+        - {x: 35, y: -9}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_132
       rect:
         serializedVersion: 2
         x: 0
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 35.5, y: -35.846153}
-        - {x: 36.5, y: -23.846153}
-        - {x: 36.5, y: 36.153847}
-      - - {x: 31.5, y: 25.153847}
-        - {x: 33.5, y: 23.153847}
-        - {x: 33.5, y: 24.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_133
       rect:
         serializedVersion: 2
         x: 72
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 30
+        width: 70
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -20.846153}
-        - {x: 17.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 33, y: -20}
+        - {x: 35, y: -18}
+        - {x: 35, y: 18}
+        - {x: 33, y: 20}
       tessellationDetail: 0
     - name: Tiles_134
       rect:
         serializedVersion: 2
         x: 144
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 35.5, y: -35.846153}
-        - {x: 36.5, y: -15.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: -33}
+        - {x: -33, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_135
       rect:
         serializedVersion: 2
         x: 216
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 9.5, y: 36.153847}
-        - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -2.8461533}
-        - {x: 0.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 26.153847}
-        - {x: 33.5, y: 26.153847}
-      - - {x: 33.5, y: 36.153847}
-        - {x: 33.5, y: 30.153847}
-        - {x: 35.5, y: 28.153847}
-        - {x: 36.5, y: 28.153847}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -33, y: 35}
+        - {x: -35, y: 33}
+        - {x: -35, y: 8}
+        - {x: 9, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_136
       rect:
         serializedVersion: 2
         x: 288
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 35.5, y: -35.846153}
-        - {x: 36.5, y: -4.8461533}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_137
       rect:
         serializedVersion: 2
-        x: 360
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        x: 393
+        y: 0
+        width: 5
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: 28.153847}
-        - {x: -32.5, y: 24.153847}
-        - {x: -5.5, y: -35.846153}
-        - {x: 3.5, y: -35.846153}
-        - {x: 36.5, y: 23.153847}
-        - {x: 36.5, y: 36.153847}
-      - - {x: 33.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: -2.8461533}
-        - {x: 33.5, y: -3.8461533}
+      outline: []
       tessellationDetail: 0
     - name: Tiles_138
       rect:
         serializedVersion: 2
         x: 432
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 30.153847}
-        - {x: 35.5, y: 36.153847}
+      - - {x: -35, y: 22.5}
+        - {x: -35, y: -21.5}
+        - {x: -34, y: -22.5}
+        - {x: 35, y: -22.5}
+        - {x: 35, y: 22.5}
       tessellationDetail: 0
     - name: Tiles_139
       rect:
         serializedVersion: 2
         x: 504
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -12.5, y: 36.153847}
-        - {x: -11.5, y: 33.153847}
-        - {x: -36.5, y: 27.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_140
       rect:
         serializedVersion: 2
         x: 576
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_141
       rect:
         serializedVersion: 2
         x: 648
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 32.153847}
-        - {x: 35.5, y: 36.153847}
-        - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-      - - {x: 33.5, y: 36.153847}
-        - {x: 33.5, y: 30.153847}
-        - {x: 35.5, y: 28.153847}
-        - {x: 36.5, y: 28.153847}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     - name: Tiles_142
       rect:
         serializedVersion: 2
         x: 720
-        y: 10.153847
-        width: 72.09091
-        height: 71.84615
+        y: 0
+        width: 70
+        height: 70
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline:
-      - - {x: -36.5, y: 36.153847}
-        - {x: -36.5, y: -35.846153}
-        - {x: 36.5, y: -35.846153}
-        - {x: 36.5, y: 36.153847}
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
       tessellationDetail: 0
     outline: []
   spritePackingTag: 

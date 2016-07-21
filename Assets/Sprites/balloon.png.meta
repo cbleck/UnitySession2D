@@ -1,17 +1,23 @@
 fileFormatVersion: 2
-guid: 6123cb9934d3b30408aa50b6680df5e5
-timeCreated: 1469077945
+guid: aaef30b7dcf50c340a9c035e5fee54fe
+timeCreated: 1469074824
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: EnemyAttack_0
-    21300002: EnemyAttack_1
-    21300004: EnemyAttack_2
-    21300006: EnemyAttack_3
-    21300008: EnemyAttack_4
-    21300010: EnemyAttack_5
-    21300012: EnemyAttack_6
-    21300014: EnemyAttack_7
+    21300000: ballon_0
+    21300002: ballon_1
+    21300004: ballon_2
+    21300006: ballon_3
+    21300008: ballon_4
+    21300010: ballon_5
+    21300012: ballon_9
+    21300014: balloon_0
+    21300016: balloon_1
+    21300018: balloon_2
+    21300020: balloon_3
+    21300022: balloon_4
+    21300024: balloon_5
+    21300026: balloon_9
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -61,106 +67,93 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: EnemyAttack_0
+      name: balloon_0
       rect:
         serializedVersion: 2
-        x: 5
-        y: 10
-        width: 77
-        height: 92
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: EnemyAttack_1
-      rect:
-        serializedVersion: 2
-        x: 85
+        x: 11
         y: 9
-        width: 81
-        height: 93
+        width: 41
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EnemyAttack_2
+      name: balloon_1
       rect:
         serializedVersion: 2
-        x: 174
+        x: 68
         y: 7
-        width: 79
-        height: 90
+        width: 51
+        height: 61
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EnemyAttack_3
+      name: balloon_2
       rect:
         serializedVersion: 2
-        x: 265
-        y: 7
-        width: 93
-        height: 86
+        x: 127
+        y: 8
+        width: 55
+        height: 55
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EnemyAttack_4
+      name: balloon_3
       rect:
         serializedVersion: 2
-        x: 378
-        y: 6
-        width: 92
-        height: 68
+        x: 191
+        y: 8
+        width: 55
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EnemyAttack_5
+      name: balloon_4
       rect:
         serializedVersion: 2
-        x: 482
-        y: 6
-        width: 90
-        height: 68
+        x: 259
+        y: 9
+        width: 42
+        height: 43
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EnemyAttack_6
+      name: balloon_5
       rect:
         serializedVersion: 2
-        x: 584
-        y: 5
-        width: 89
-        height: 68
+        x: 326
+        y: 20
+        width: 29
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: EnemyAttack_7
+      name: balloon_9
       rect:
         serializedVersion: 2
-        x: 682
-        y: 7
-        width: 87
-        height: 68
+        x: 377
+        y: 17
+        width: 25
+        height: 28
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0

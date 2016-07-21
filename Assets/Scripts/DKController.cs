@@ -9,6 +9,7 @@ public class DKController : MonoBehaviour {
     public GameObject explosionPrefab;
     public Text itemsLabel;
     public Text livesLabel;
+    public GameObject firstBalloon, secondBalloon, thirdBalloon;
 
     private SpriteRenderer sprite;
     private Animator dkAnimator;
@@ -23,6 +24,11 @@ public class DKController : MonoBehaviour {
         isgrounded = false;
 
         /*
+        DataManager.instance.LoadData();
+        items = DataManager.instance.items;
+        lives = DataManager.instance.lives;
+        */
+        PlayerPrefs.DeleteAll();
         if (!PlayerPrefs.HasKey("Items"))
         {
             lives = 3;
@@ -31,12 +37,7 @@ public class DKController : MonoBehaviour {
         else {
             lives = PlayerPrefs.GetInt("Lives");
             items = PlayerPrefs.GetInt("Items");
-        }
-        */
-        DataManager.instance.LoadData();
-        items = DataManager.instance.items;
-        lives = DataManager.instance.lives;
-        //PlayerPrefs.DeleteAll();
+        }        
     }
 	
 	// Update is called once per frame
@@ -64,28 +65,32 @@ public class DKController : MonoBehaviour {
 
         Destroy(colliderTrigger.gameObject);
         items++;
+        /*
         items = DataManager.instance.items;
         lives = DataManager.instance.lives;
         DataManager.instance.SaveData();
-        /*
+        */
         PlayerPrefs.SetInt("Items", items);
         PlayerPrefs.Save();
-        */
     }
 
     void OnCollisionEnter2D(Collision2D collisionObject) {
 
         if (collisionObject.transform.tag == "barrel") {
             lives--;
+            /*
             items = DataManager.instance.items;
             lives = DataManager.instance.lives;
             DataManager.instance.SaveData();
-            /*
+            */
+
             PlayerPrefs.SetInt("Lives", lives);
             PlayerPrefs.Save();
-            */
+
             Destroy(Instantiate(explosionPrefab, collisionObject.contacts[0].point, Quaternion.identity), 0.9f);
             Destroy(collisionObject.gameObject);
+
+            StartCoroutine("DestroyBalloon");
         }
         Debug.Log(collisionObject.transform.name);
         Debug.Log(collisionObject.collider.bounds.max.y);
@@ -93,7 +98,6 @@ public class DKController : MonoBehaviour {
 
         if (collisionObject.transform.tag == "ground" && collisionObject.collider.bounds.max.y <= GetComponent<Collider2D>().bounds.min.y + 0.05f)
             isgrounded = true;
-
     }
 
 
@@ -101,5 +105,26 @@ public class DKController : MonoBehaviour {
         dkAnimator.SetTrigger("jump");
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * jumpforce, ForceMode2D.Impulse);
         isgrounded = false;
+    }
+
+    IEnumerator DestroyBalloon(){
+        if (lives == 2)
+            firstBalloon.GetComponent<Animator>().SetTrigger("blowballoon");
+        else if(lives == 1)
+            secondBalloon.GetComponent<Animator>().SetTrigger("blowballoon");
+        else if(lives == 0)
+            thirdBalloon.GetComponent<Animator>().SetTrigger("blowballoon");
+
+        int tempLives = lives;
+        yield return new WaitForSeconds(0.4f);
+
+
+        if (tempLives == 2)
+            Destroy(firstBalloon);
+        else if (tempLives == 1)
+            Destroy(secondBalloon);
+        else if (tempLives == 0)
+            Destroy(thirdBalloon);
+
     }
 }

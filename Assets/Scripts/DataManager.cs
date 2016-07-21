@@ -11,6 +11,7 @@ public class DataManager : MonoBehaviour {
 
     string[] tmpString;
     char[] delimeterCharacteres = {'|', ','};
+
     public int items;
     public int lives;
 

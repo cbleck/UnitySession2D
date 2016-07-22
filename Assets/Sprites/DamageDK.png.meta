@@ -1,9 +1,25 @@
 fileFormatVersion: 2
 guid: 8141d3cfb7f6dcc45900e840f7afea1a
-timeCreated: 1468630549
+timeCreated: 1469154888
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: DamageDK_0
+    21300002: DamageDK_1
+    21300004: DamageDK_2
+    21300006: DamageDK_3
+    21300008: DamageDK_4
+    21300010: DamageDK_5
+    21300012: DamageDK_6
+    21300014: DamageDK_7
+    21300016: DamageDK_8
+    21300018: DamageDK_9
+    21300020: DamageDK_10
+    21300022: DamageDK_11
+    21300024: DamageDK_12
+    21300026: DamageDK_13
+    21300028: DamageDK_14
+    21300030: DamageDK_15
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -30,7 +46,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
-    aniso: -1
+    aniso: 16
     mipBias: -1
     wrapMode: 1
   nPOTScale: 0
@@ -38,7 +54,7 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -50,7 +66,216 @@ TextureImporter:
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites: []
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DamageDK_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 8
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_5
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 6
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 5
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_7
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 3
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_8
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 5
+        width: 52
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_10
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 5
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_11
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 6
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_13
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 5
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_14
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 6
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DamageDK_15
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 6
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
     outline: []
   spritePackingTag: 
   userData: 

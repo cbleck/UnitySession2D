@@ -1,0 +1,66 @@
+﻿using UnityEngine;
+using System.Collections;
+
+public class GrayScaleImageEffect : MonoBehaviour 
+{
+
+    public bool renderBnW = false;
+	public Shader curShader;
+	public float grayScaleAmount = 1.0f;
+	private Material curMaterial;
+
+
+	Material material
+	{
+		get 
+		{
+			if(curMaterial == null)
+			{
+				curMaterial = new Material(curShader);
+				curMaterial.hideFlags = HideFlags.HideAndDontSave;
+			}
+			return curMaterial;
+		}
+	}
+
+	// Use this for initialization
+	void Start () 
+	{
+		if (!SystemInfo.supportsImageEffects) 
+		{
+			enabled = false;
+			return;
+		}
+
+		if (!curShader && !curShader.isSupported) 
+		{
+			enabled = false;
+		}
+	}
+	
+	void OnRenderImage(RenderTexture sourceTexture, RenderTexture destTexture)
+	{
+		if (curShader != null && renderBnW) 
+		{
+			material.SetFloat("_LuminosityAmount", grayScaleAmount);
+			Graphics.Blit(sourceTexture, destTexture, material);
+		} 
+		else 
+		{
+			Graphics.Blit(sourceTexture, destTexture);
+		}
+	}
+
+	void Update()
+	{
+		grayScaleAmount = Mathf.Clamp(grayScaleAmount, 0.0f, 1.0f);
+	}
+
+	void OnDisable()
+	{
+		if (curMaterial) 
+		{
+			DestroyImmediate(curMaterial);
+		}
+	}
+}

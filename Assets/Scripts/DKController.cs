@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class DKController : MonoBehaviour {
 
@@ -91,6 +92,9 @@ public class DKController : MonoBehaviour {
             Destroy(collisionObject.gameObject);
 
             StartCoroutine("DestroyBalloon");
+
+            if (lives == 0)
+                StartCoroutine("GameOver");
         }
         Debug.Log(collisionObject.transform.name);
         Debug.Log(collisionObject.collider.bounds.max.y);
@@ -126,5 +130,14 @@ public class DKController : MonoBehaviour {
         else if (tempLives == 0)
             Destroy(thirdBalloon);
 
+    }
+
+    IEnumerator GameOver() {
+        dkAnimator.SetTrigger("die");
+        Camera.main.GetComponent<GrayScaleImageEffect>().renderBnW = true;
+
+        yield return new WaitForSeconds(2.0f);
+
+        SceneManager.LoadScene(0);
     }
 }

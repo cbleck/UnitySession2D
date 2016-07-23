@@ -19,6 +19,7 @@ public class UIManager : MonoBehaviour
 		shareButton.SetActive (false);
         Utilities.instance.captureScreenShotCallback += ScreenShotCallback;
         Utilities.instance.TakeScreenShot();
+        AnalyticsManager.instance.ScreenEvent("Facebook Screen");
         Time.timeScale = 0f;
 	}
 
@@ -35,6 +36,8 @@ public class UIManager : MonoBehaviour
 		shareButton.SetActive (true);
         Time.timeScale = 1f;
         FacebookManager.instance.ShareMessage("Compartir"/*messageToShare.text*/, Utilities.instance.screenShot);
+
+        AnalyticsManager.instance.RegisterEvent("Social","Facebook Share", "Facebook",(long)Time.time);
     }
 
 	public void ScreenShotCallback()
@@ -51,5 +54,9 @@ public class UIManager : MonoBehaviour
 
     public void LoginToFacebook() {
         FacebookManager.instance.LogIn();
+    }
+
+    public void ShowAd() {
+        AdsManager.instance.ShowAd();
     }
 }

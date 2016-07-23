@@ -89,7 +89,7 @@ public class DKController : MonoBehaviour {
             PlayerPrefs.Save();
 
             Destroy(Instantiate(explosionPrefab, collisionObject.contacts[0].point, Quaternion.identity), 0.9f);
-            Destroy(collisionObject.gameObject);
+            //Destroy(collisionObject.gameObject);
 
             StartCoroutine("DestroyBalloon");
 

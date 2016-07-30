@@ -11,6 +11,7 @@ public class DKController : MonoBehaviour {
     public Text itemsLabel;
     public Text livesLabel;
     public GameObject firstBalloon, secondBalloon, thirdBalloon;
+    public AudioSource jumpSound, harmSound, itemSound;
 
     private SpriteRenderer sprite;
     private Animator dkAnimator;
@@ -71,6 +72,7 @@ public class DKController : MonoBehaviour {
         lives = DataManager.instance.lives;
         DataManager.instance.SaveData();
         */
+        itemSound.Play();
         PlayerPrefs.SetInt("Items", items);
         PlayerPrefs.Save();
     }
@@ -79,6 +81,7 @@ public class DKController : MonoBehaviour {
 
         if (collisionObject.transform.tag == "barrel") {
             lives--;
+            harmSound.Play();
             /*
             items = DataManager.instance.items;
             lives = DataManager.instance.lives;
@@ -107,6 +110,7 @@ public class DKController : MonoBehaviour {
 
     void TriggerJump() {
         dkAnimator.SetTrigger("jump");
+        jumpSound.Play();
         GetComponent<Rigidbody2D>().AddForce(Vector2.up * jumpforce, ForceMode2D.Impulse);
         isgrounded = false;
     }
